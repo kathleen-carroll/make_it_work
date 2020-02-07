@@ -253,6 +253,42 @@
           null
         ]
       },
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/spec/features/projects/user_can_see_count_of_contestants_on_show_page_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/kathleencarroll/turing/2module/challenges/make_it_work/spec/features/projects/user_can_see_project_and_info_show_page_spec.rb": {
         "lines": [
           1,
@@ -406,12 +442,12 @@
         "lines": [
           1,
           1,
-          1,
+          2,
           null,
           null
         ]
       }
     },
-    "timestamp": 1581097180
+    "timestamp": 1581098391
   }
 }

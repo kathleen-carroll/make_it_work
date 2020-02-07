@@ -1,3 +1,5 @@
 <h1><%= @project.name %></h1>
 <p>Material: <%= @project.material %></p>
 <p>Challenge Theme: <%= @project.challenge.theme %></p>
+<!-- @project.contestants.sum{|contestant| contestant} %> -->
+<p>Number of Contestants: <%= @project.contestants.length%></p>
