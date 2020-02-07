@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/config/environment.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/config/environment.rb": {
         "lines": [
           null,
           1,
@@ -10,7 +10,7 @@
           1
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/config/application.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/config/application.rb": {
         "lines": [
           1,
           null,
@@ -47,7 +47,7 @@
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/config/boot.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/config/boot.rb": {
         "lines": [
           1,
           null,
@@ -55,7 +55,7 @@
           1
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/config/environments/test.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/config/environments/test.rb": {
         "lines": [
           1,
           null,
@@ -105,7 +105,7 @@
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/config/initializers/application_controller_renderer.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/config/initializers/application_controller_renderer.rb": {
         "lines": [
           null,
           null,
@@ -117,7 +117,7 @@
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/config/initializers/assets.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/config/initializers/assets.rb": {
         "lines": [
           null,
           null,
@@ -135,7 +135,7 @@
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/config/initializers/backtrace_silencers.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/config/initializers/backtrace_silencers.rb": {
         "lines": [
           null,
           null,
@@ -146,7 +146,7 @@
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/config/initializers/content_security_policy.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/config/initializers/content_security_policy.rb": {
         "lines": [
           null,
           null,
@@ -175,7 +175,7 @@
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/config/initializers/cookies_serializer.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/config/initializers/cookies_serializer.rb": {
         "lines": [
           null,
           null,
@@ -184,7 +184,7 @@
           1
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/config/initializers/filter_parameter_logging.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/config/initializers/filter_parameter_logging.rb": {
         "lines": [
           null,
           null,
@@ -192,7 +192,7 @@
           1
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/config/initializers/inflections.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/config/initializers/inflections.rb": {
         "lines": [
           null,
           null,
@@ -212,7 +212,7 @@
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/config/initializers/mime_types.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/config/initializers/mime_types.rb": {
         "lines": [
           null,
           null,
@@ -220,7 +220,7 @@
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/config/initializers/wrap_parameters.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/config/initializers/wrap_parameters.rb": {
         "lines": [
           null,
           null,
@@ -238,109 +238,180 @@
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/config/routes.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/config/routes.rb": {
         "lines": [
           1,
           null,
-          null
-        ]
-      },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/app/helpers/application_helper.rb": {
-        "lines": [
-          1,
-          null
-        ]
-      },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/app/models/challenge.rb": {
-        "lines": [
-          1,
           1,
           1,
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/app/models/application_record.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/spec/features/projects/user_can_see_project_and_info_show_page_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/spec/models/challenge_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/app/models/challenge.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/app/models/application_record.rb": {
         "lines": [
           1,
           1,
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/spec/models/contestant_project_spec.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/spec/models/contestant_project_spec.rb": {
         "lines": [
           1,
           null,
           null,
           1,
           1,
-          2,
-          2,
-          null,
-          null
-        ]
-      },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/app/models/contestant_project.rb": {
-        "lines": [
-          1,
-          null,
-          null
-        ]
-      },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/spec/models/contestant_spec.rb": {
-        "lines": [
-          1,
-          null,
-          null,
-          1,
-          1,
-          2,
-          2,
-          2,
-          2,
-          null,
-          null,
-          1,
-          2,
-          2,
-          null,
-          null
-        ]
-      },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/app/models/contestant.rb": {
-        "lines": [
-          1,
-          null,
-          null
-        ]
-      },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/spec/models/project_spec.rb": {
-        "lines": [
-          1,
-          null,
-          null,
-          1,
-          1,
-          2,
-          2,
-          null,
-          null,
-          1,
-          2,
           2,
           2,
           null,
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/make_it_work/app/models/project.rb": {
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/app/models/contestant_project.rb": {
         "lines": [
           1,
           1,
           1,
+          null
+        ]
+      },
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/spec/models/contestant_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/app/models/contestant.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/spec/models/project_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/app/models/project.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/app/controllers/contestants_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/kathleencarroll/turing/2module/challenges/make_it_work/app/controllers/projects_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
           null
         ]
       }
     },
-    "timestamp": 1580930579
+    "timestamp": 1581097180
   }
 }
