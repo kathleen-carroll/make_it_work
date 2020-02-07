@@ -4,3 +4,9 @@
 <!-- @project.contestants.sum{|contestant| contestant} %> -->
 <p>Number of Contestants: <%= @project.contestants.length%></p>
 <p>Average Contestant Experience: <%= @project.average_experience %></p>
+
+<%= form_tag("/projects/#{@project.id}", method: :post) do %>
+  <p><%= label_tag :contestant_id %>
+     <%= text_field_tag :contestant_id %></p>
+<%= submit_tag "Add Contestant to Project"%>
+<% end %>
